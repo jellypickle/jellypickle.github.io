@@ -4,7 +4,7 @@ description: Our team hosted an Hour of AI event for middle schoolers in full se
 order: 2
 image: /assets/img/project2_pic.jpg
 # Uncomment below if you want to link to the project
-link: https://youtu.be/163Sf1Q_bdY?si=gW5GV9odzcQWBLZO
+link: https://youtu.be/SWY28CXc2OI?si=xFS4GmQieQ7SUQmZ
 ---
 
 
