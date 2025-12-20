@@ -14,7 +14,25 @@
       </div>
     </div>
 
-    <!-- Spotify block removed -->
+    <div class="col-12 col-md-5">
+      <div class="spotify-card p-3 rounded d-flex align-items-center gap-3">
+        <div style="flex: 1; min-width: 0">
+          <h4 class="mb-2">Listen: My Playlist</h4>
+          <!-- Embed: replace PLAYLIST_ID below if you want a different playlist -->
+          <div class="ratio ratio-16x9">
+            <iframe
+              id="spotify-iframe"
+              src="https://open.spotify.com/embed/playlist/3XxZpxzJ98794yfS9VXCIv"
+              width="100%"
+              height="80"
+              frameborder="0"
+              allow="encrypted-media"
+              loading="lazy"
+            ></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 
@@ -24,6 +42,10 @@
   }
   .home-intro .lead {
     color: var(--text-secondary);
+  }
+  .spotify-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
   }
   @media (max-width: 767px) {
     .spotify-card {
