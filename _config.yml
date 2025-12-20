@@ -210,6 +210,14 @@ defaults:
 sass:
   style: compressed
 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      tags: []
+      categories: []
+
 compress_html:
   clippings: all
   comments: all
