@@ -8,7 +8,7 @@ title: About me
 > Add your biographical information and background here to tell visitors about yourself.
 {: .prompt-tip }
 
-I'm a first-year undergraduate IT student in ADA university, currently interested in cybersecurity and machine learning. I'm also planning to get into electronics in the future.
+I'm a first-year undergraduate IT student in ADA university, currently interested in cybersecurity and machine learning. I'm also planning to get into electronics and learn how to work with arduino in the future.
 
 I had a huge interest in art since childhood, and I started painting when I was 13. Unfortunately, due to my studies, I stopped painting, but whenever I have free time, I draw some sketches. Here, I would like to show some of my favorite paintings. :D
 ## My Paintings

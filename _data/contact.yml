@@ -3,6 +3,10 @@
 - type: github
   icon: "fab fa-github"
 
+- type: instagram
+  icon: "fab fa-instagram"
+  url: "https://instagram.com/4ydaann"
+
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
@@ -10,9 +14,17 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- type: linkedin
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/aydan-abdullayeva-498996382/'
+
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
+- type: codecademy
+  icon: 'fas fa-graduation-cap'
+  url: 'https://www.codecademy.com/profiles/4ydan'
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
