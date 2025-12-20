@@ -2,8 +2,6 @@
 layout: post
 title: "My First Blog Post"
 date: 2025-12-20 19:35
-categories: [life, learning]
-tags: [ada, jekyll]
 image: /assets/img/preview.jpg
 excerpt_separator: "<!--more-->"
 comments: false

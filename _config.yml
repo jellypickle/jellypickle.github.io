@@ -157,6 +157,11 @@ paginate: 10
 
 # The base URL of your site
 baseurl: ""
+tags:
+  enabled: false
+
+categories:
+  enabled: false
 
 # ------------ The following options are not recommended to be modified ------------------
 
