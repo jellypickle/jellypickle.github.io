@@ -31,6 +31,14 @@ I had a huge interest in art since childhood, and I started painting when I was 
   </div>
 
   <div class="painting-card">
+    <img src="/assets/img/pinkpetals.jpg" alt="Pink Petals" class="painting-image" />
+    <div class="painting-description">
+      <h4>Pink Petals</h4>
+      <p>This is one of my favorite paintings after "Eternal Heritage". I specifically like the brush stroke techniques I used in this painting because it looks textured, and if you try to feel it with your hands, it feels bumpy, which is a characteristic that I like: it feels like the painting is three-dimensional. </p>
+    </div>
+  </div>
+
+  <div class="painting-card">
     <img src="/assets/img/teatime.jpg" alt="Tea Time" class="painting-image" />
     <div class="painting-description">
       <h4>Tea Time</h4>
