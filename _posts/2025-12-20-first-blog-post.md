@@ -1,6 +1,12 @@
 ---
-title:
-date:
-categories:
-tags:
+layout: post
+title: "My First Blog Post"
+date: 2025-12-20 19:35
+categories: [life, learning]
+tags: [ada, jekyll]
+image: /assets/img/preview.jpg
+excerpt_separator: "<!--more-->"
+comments: false
 ---
+### Welcome
+I had some difficulties while working on this project, but it made me learn a lot about how to use Git and GitHub, along with some useful information about Jekyll!
