@@ -14,7 +14,7 @@ timezone: Asia/Baku
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Aydan - Portfolio # the main title
+title: Aydan Abdullayeva # the main title
 
 tagline: florpb # it will display as the subtitle
 
@@ -76,6 +76,11 @@ analytics:
 # Page views settings
 pageviews:
   provider: # now only supports 'goatcounter'
+
+# Search settings
+search:
+  provider: # [google | local]
+  # Uncomment the line below if you'd like to use Google search to replace the local search engine
 
 # Prefer color scheme setting.
 #
