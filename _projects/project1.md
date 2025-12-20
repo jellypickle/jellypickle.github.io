@@ -7,12 +7,12 @@ image: /assets/img/project1_site1101.jpg
 link: https://youtu.be/163Sf1Q_bdY?si=gW5GV9odzcQWBLZO
 ---
 
-### Project Overview ###
+#Project Overview:
 
 In order to understand how computers work with logic gates, our purpose was to build logic gates on breadboards. We first started off with the NOT, AND, OR gates. Later on, we collaborated with more teams in order to build NAND and XOR gates. It was one of my favorite projects throughout the entire semester! :D
 
 
-### Technologies Used ###
+#Technologies Used:
 
 - Breadboards
 - NPN transistors
@@ -22,7 +22,7 @@ In order to understand how computers work with logic gates, our purpose was to b
 - LEDs
 - Power supply module
 
-### Links ###
+#Links:
 
 - [Link to our video about our NOT, AND, OR gate construction](https://youtu.be/163Sf1Q_bdY?si=gW5GV9odzcQWBLZO)
 - [Link to our NAND gate construction video with another team](https://www.youtube.com/watch?v=pk3ddHSEPT4)

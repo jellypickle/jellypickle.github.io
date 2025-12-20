@@ -10,9 +10,15 @@
   .site-footer i {
     margin-right: 0.5rem;
   }
+  .footer-name {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+  }
 </style>
 <footer class="site-footer">
   <div class="container text-center">
+    <p class="footer-name">© {{ site.time | date: '%Y' }} {{ site.social.name }}</p>
     <a
       href="https://github.com/{{ site.github.username }}/{{ site.github.repository }}"
       target="_blank"
