@@ -25,6 +25,11 @@
 - type: codecademy
   icon: 'fas fa-graduation-cap'
   url: 'https://www.codecademy.com/profiles/4ydan'
+
+- type: spotify
+  icon: 'fab fa-spotify'
+  url: 'https://open.spotify.com/user/1gxrkzynsy0vrlu900dx745pw?si=b193ce02ab9040a7'
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
