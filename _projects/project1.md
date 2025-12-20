@@ -24,6 +24,6 @@ In order to understand how computers work with logic gates, our purpose was to b
 
 #Links:
 
-- [Link to our video about our NOT, AND, OR gate construction](https://youtu.be/163Sf1Q_bdY?si=gW5GV9odzcQWBLZO)
-- [Link to our NAND gate construction video with another team](https://www.youtube.com/watch?v=pk3ddHSEPT4)
-- [Link to our XOR gate construction video with 3 other teams](https://www.youtube.com/watch?v=k6JnbaQE69s)
+- [https://youtu.be/163Sf1Q_bdY?si=gW5GV9odzcQWBLZO](Link to our video about our NOT, AND, OR gate construction)
+- [https://www.youtube.com/watch?v=pk3ddHSEPT4](Link to our NAND gate construction video with another team)
+- [https://www.youtube.com/watch?v=k6JnbaQE69s](Link to our XOR gate construction video with 3 other teams)
