@@ -16,21 +16,6 @@
 
     <div class="col-12 col-md-5">
       <div class="spotify-card p-3 rounded d-flex align-items-center gap-3">
-        <div id="spotify-cover" style="width: 120px; flex: 0 0 120px">
-          <!-- Playlist cover will be inserted here by JS. If you prefer, place a static image at /assets/img/spotify-placeholder.png -->
-          <img
-            id="spotify-cover-img"
-            src="/assets/img/plsylisttt.png"
-            alt="Playlist cover"
-            style="
-              width: 120px;
-              height: 120px;
-              object-fit: cover;
-              border-radius: 6px;
-              display: none;
-            "
-          />
-        </div>
         <div style="flex: 1; min-width: 0">
           <h4 class="mb-2">Listen: My Playlist</h4>
           <!-- Embed: replace PLAYLIST_ID below if you want a different playlist -->
@@ -90,30 +75,3 @@
     color: white;
   }
 </style>
-
-<script>
-  // Insert playlist cover using Spotify oEmbed. If you change playlist, update PLAYLIST_ID below.
-  (function () {
-    var PLAYLIST_ID = "3XxZpxzJ98794yfS9VXCIv";
-    var playlistUrl = "https://open.spotify.com/playlist/" + PLAYLIST_ID;
-    var oembed =
-      "https://open.spotify.com/oembed?url=" + encodeURIComponent(playlistUrl);
-    fetch(oembed)
-      .then(function (r) {
-        if (!r.ok) throw 0;
-        return r.json();
-      })
-      .then(function (j) {
-        var img = document.getElementById("spotify-cover-img");
-        if (img) {
-          img.src = j.thumbnail_url;
-          img.style.display = "block";
-        }
-      })
-      .catch(function () {
-        // fallback: keep placeholder hidden or show static image if provided
-        var img = document.getElementById("spotify-cover-img");
-        if (img) img.style.display = "none";
-      });
-  })();
-</script>
