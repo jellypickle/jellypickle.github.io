@@ -27,6 +27,7 @@ url: "https://jellypickle.github.io"
 
 github:
   username: jellypickle # change to your GitHub username
+  repository: jellypickle.github.io
 
 codecademy:
   username: 4ydan # change to your Twitter username
